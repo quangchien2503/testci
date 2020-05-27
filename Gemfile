@@ -14,7 +14,7 @@ gem 'dotenv'
 gem 'aws-sdk-s3'
 gem 'sidekiq'
 gem 'redis'
-gem 'activesupport', '~> 5.0'
+gem 'activesupport', '~> 5.2'
 # gem 'pry'
 # gem 'pry-byebug'
 
